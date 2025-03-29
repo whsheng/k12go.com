@@ -53,19 +53,8 @@ export const NavData:NavData[] =
           "title": "中国教育和科研计算机网",
           "desc": "教育部教育信息化和网络安全重要平台",
           "link": "https://www.edu.cn/"
-        },
-        {
-          "icon": "https://www.google.com/s2/favicons?domain=www.jsks.com.cn&sz=64",
-          "title": "中国教师资格网",
-          "desc": "教师资格考试政策、公告及报名入口",
-          "link": "http://www.jsks.com.cn/"
-        },
-        {
-          "icon": "https://www.google.com/s2/favicons?domain=www.chinaeduei.com&sz=64",
-          "title": "中国教育创新网",
-          "desc": "教育改革与创新政策研究及案例分享平台",
-          "link": "http://www.chinaeduei.com/"
         }
+     
       ]
     },
     {
